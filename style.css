@@ -1,0 +1,12 @@
+body{
+    background-color: #5A2734;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+
+div#mainGame {
+    width: 720px;
+    height: 600px;
+    margin: 10% 12%;
+}
