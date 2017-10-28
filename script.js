@@ -7,8 +7,14 @@ var questions = [
     'extraordinary',
     'relentless',
     'elephantiasis',
-    'Intelligence',
-    'Artificial'
+    'intelligence',
+    'artificial',
+    'abbreviate',
+    'spreadsheet',
+    'cryogenics',
+    'paraphrase',
+    'twaddle',
+    'universe'
 ];
 
 
